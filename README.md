@@ -35,4 +35,4 @@ This project is an interactive Excel dashboard that analyzes restaurant sales da
 
 ---
 
-> Created by Syed (https://github.com/arshad-boyka)
+> Created by Syed (https://github.com/syed-shameem)
